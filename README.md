@@ -5,9 +5,9 @@ To write a python program to find the rank of a matrix
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step 1: import numpy
-### Step 2: assign np.numpy()
-### Step 3: using np.linalg solve()
+### Step 1: Import numpy
+### Step 2: Assign np.numpy()
+### Step 3: Using np.linalg solve()
 ### Step 4: End the program
 ## Program:
 ```#Program to find the rank of a matrix.
